@@ -2,10 +2,19 @@
 
 This project demonstrates how to deploy a language model locally using Docker.
 
-Note:
+## Note:
 - This is a simplified demo that mimics the behavior of a local LLM without actually loading a model
 - It uses rule-based responses instead of a real model to ensure it works reliably
 - In a real implementation, you would connect this to an actual language model like TinyLlama
+
+## What it works?
+
+This demo shows:
+
+- How to package an AI application in Docker
+- The general architecture of a local LLM deployment
+- The user interface for interacting with a local model
+- How to deploy without external API calls
 
 ## Usage
 
