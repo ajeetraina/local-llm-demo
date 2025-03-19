@@ -2,10 +2,16 @@
 
 This project demonstrates how to deploy a language model locally using Docker.
 
+Note:
+- This is a simplified demo that mimics the behavior of a local LLM without actually loading a model
+It uses rule-based responses instead of a real model to ensure it works reliably
+In a real implementation, you would connect this to an actual language model like TinyLlama
+
 ## Usage
 
-1. Make sure Docker is installed on your machine
-2. Run the following command:
+1. Make sure Docker Desktop is installed on your machine
+2. Clone the repository and follow the next step.
+3. Run the following command:
 
 
 ```
